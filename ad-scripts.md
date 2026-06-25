@@ -1,60 +1,94 @@
-# Prompts Used
+# UGC Ad Scripts
 
-## Prompt 1 - Hooks
+## Script 1
 
-Act as a professional UGC marketer.
+Hook:
+Still sending resumes but getting no replies?
 
-Generate 20 scroll-stopping hooks for a skincare product called GlowPure Face Serum.
+Problem:
+I applied for dozens of jobs and heard nothing back.
 
-The hooks should:
+Solution:
+Then I discovered CareerPilot AI.
 
-* Grab attention within 3 seconds
-* Be suitable for Instagram Reels and TikTok
-* Focus on skincare benefits
-* Create curiosity
+Benefits:
+It helped me improve my resume and prepare for interviews.
 
----
-
-## Prompt 2 - UGC Ad Scripts
-
-Act as a UGC content creator.
-
-Create 5 UGC ad scripts for GlowPure Face Serum.
-
-Structure:
-
-* Hook
-* Problem
-* Solution
-* Benefits
-* CTA
-
-Tone:
-Natural, authentic, and persuasive.
+CTA:
+Start building your career with CareerPilot AI today.
 
 ---
 
-## Prompt 3 - Social Media Captions
+## Script 2
 
-Generate 15 engaging Instagram captions for GlowPure Face Serum.
+Hook:
+I wish I found this tool earlier.
 
-Requirements:
+Problem:
+I had no idea which career path suited me.
 
-* Friendly tone
-* Highlight product benefits
-* Include emojis
-* Encourage engagement
+Solution:
+CareerPilot AI analyzed my skills and interests.
+
+Benefits:
+Now I have a clear career roadmap.
+
+CTA:
+Find your perfect career path today.
 
 ---
 
-## Prompt 4 - CTA Content
+## Script 3
 
-Generate 15 high-converting CTA phrases for GlowPure Face Serum.
+Hook:
+Interview anxiety was ruining my confidence.
 
-Focus on:
+Problem:
+I never felt prepared for interviews.
 
-* Purchase intent
-* Free trials
-* Product exploration
-* Customer trust
+Solution:
+CareerPilot AI helped me practice common interview questions.
 
+Benefits:
+I became more confident and job-ready.
+
+CTA:
+Get interview-ready with CareerPilot AI.
+
+---
+
+## Script 4
+
+Hook:
+My resume finally started getting attention.
+
+Problem:
+Recruiters weren't responding.
+
+Solution:
+I optimized my resume using CareerPilot AI.
+
+Benefits:
+More interviews and better opportunities.
+
+CTA:
+Upgrade your resume today.
+
+---
+
+## Script 5
+
+Hook:
+Want to stand out in a competitive job market?
+
+Problem:
+Many students don't know where to start.
+
+Solution:
+CareerPilot AI provides personalized career guidance.
+
+Benefits:
+Career planning, resume building, and interview preparation in one place.
+
+CTA:
+Start your journey today.
