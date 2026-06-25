@@ -1,8 +1,8 @@
-# GlowPure Face Serum
+# CareerPilot AI
 
 ## Project Overview
 
-GlowPure Face Serum is a skincare product designed to improve skin hydration, brightness, and overall skin health.
+CareerPilot AI is an AI-powered career guidance platform designed to help students and job seekers make informed career decisions. The platform provides resume optimization, interview preparation, skill-gap analysis, and personalized career recommendations.
 
 ## Task
 
@@ -10,14 +10,14 @@ AI Content Marketing using UGC Ads
 
 ## Objective
 
-Generate high-converting UGC-style marketing content using Prompt Engineering techniques.
+Generate high-converting UGC-style marketing content for CareerPilot AI using Prompt Engineering techniques.
 
 ## Deliverables
 
-* Hooks
+* Marketing Hooks
 * UGC Ad Scripts
 * Social Media Captions
-* CTA Content
+* Call-To-Action Content
 
 ## Tools Used
 
@@ -31,4 +31,4 @@ FUTURE_PE_02
 
 ## Outcome
 
-Successfully generated a complete UGC advertising content package using AI-powered prompt engineering workflows.
+Successfully generated AI-powered marketing content designed to attract students and job seekers through engaging UGC advertising strategies.
