@@ -1,17 +1,24 @@
 # Prompts Used
 
-## Prompt 1 - Hooks
+## Prompt 1 - Marketing Hooks
 
 Act as a professional UGC marketer.
 
-Generate 20 scroll-stopping hooks for a skincare product called GlowPure Face Serum.
+Generate 20 scroll-stopping hooks for CareerPilot AI.
+
+CareerPilot AI helps students and job seekers:
+
+* Build ATS-friendly resumes
+* Prepare for interviews
+* Discover career opportunities
+* Improve employability skills
 
 The hooks should:
 
 * Grab attention within 3 seconds
 * Be suitable for Instagram Reels and TikTok
-* Focus on skincare benefits
 * Create curiosity
+* Target students and fresh graduates
 
 ---
 
@@ -19,7 +26,7 @@ The hooks should:
 
 Act as a UGC content creator.
 
-Create 5 UGC ad scripts for GlowPure Face Serum.
+Create 5 UGC ad scripts for CareerPilot AI.
 
 Structure:
 
@@ -30,31 +37,30 @@ Structure:
 * CTA
 
 Tone:
-Natural, authentic, and persuasive.
+Authentic, relatable, and motivating.
 
 ---
 
 ## Prompt 3 - Social Media Captions
 
-Generate 15 engaging Instagram captions for GlowPure Face Serum.
+Generate 15 engaging social media captions for CareerPilot AI.
 
 Requirements:
 
-* Friendly tone
-* Highlight product benefits
-* Include emojis
+* Student-focused
+* Motivational
+* Professional
 * Encourage engagement
 
 ---
 
 ## Prompt 4 - CTA Content
 
-Generate 15 high-converting CTA phrases for GlowPure Face Serum.
+Generate 15 high-converting CTA phrases for CareerPilot AI.
 
 Focus on:
 
-* Purchase intent
-* Free trials
-* Product exploration
-* Customer trust
-
+* Resume building
+* Interview preparation
+* Career planning
+* Job readiness
